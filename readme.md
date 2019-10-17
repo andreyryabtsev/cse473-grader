@@ -2,7 +2,7 @@
 
 1. Collect all submissions from Canvas saving them as a zip
 2. Save the project file as a zip.
-3. Invoke `./grade.py path/to/submissions.zip path/to/project.zip [file1.py ... fileN.py]` where file\<\i>.py is a list of the files to grade. Specifically:
+3. Invoke `./grade.py path/to/submissions.zip path/to/project.zip [file1.py ... fileN.py]` where the last arguments are the files that students were expected to submit. Specifically:
 
 PS1
 ```
