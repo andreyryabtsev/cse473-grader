@@ -3,6 +3,7 @@
 1. Collect all submissions from Canvas saving them as a zip
 2. Save the project file as a zip.
 3. Invoke `./grade.py path/to/submissions.zip path/to/project.zip [file1.py ... fileN.py]` where file\<\i>.py is a list of the files to grade. Specifically:
+
 PS1
 ```
 $ ./grade.py submissions.zip search.zip searchAgents.py search.py
